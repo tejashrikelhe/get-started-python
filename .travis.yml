@@ -21,7 +21,7 @@ deploy:
   username: apikey
   password: $apikey
   api: https://api.eu-gb.bluemix.net
-  organization: tejashri.kelhe@gmail.com
+  organization: tejashri.kelhe@cumminscollege.in
   space: dev
   manifest: manifest.yml
   on:
